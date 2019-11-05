@@ -18,5 +18,8 @@
         "drv_common.h": "c",
         "drv_config.h": "c",
         "drv_eth.h": "c"
-    }
+    },
+    "cSpell.ignoreWords": [
+        "sngl"
+    ]
 }
